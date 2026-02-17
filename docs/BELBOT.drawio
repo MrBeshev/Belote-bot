@@ -1,0 +1,80 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
+  <diagram name="Page-1" id="idlEb09rnNWFFZv4OwQu">
+    <mxGraphModel dx="289" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gby5T5b7FyjLcUYPZA8N-3" edge="1" parent="1" source="gby5T5b7FyjLcUYPZA8N-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="gby5T5b7FyjLcUYPZA8N-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gby5T5b7FyjLcUYPZA8N-4" connectable="0" parent="gby5T5b7FyjLcUYPZA8N-3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="USB" vertex="1">
+          <mxGeometry relative="1" x="-0.0034" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gby5T5b7FyjLcUYPZA8N-11" edge="1" parent="1" source="gby5T5b7FyjLcUYPZA8N-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="gby5T5b7FyjLcUYPZA8N-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gby5T5b7FyjLcUYPZA8N-19" connectable="0" parent="gby5T5b7FyjLcUYPZA8N-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="PWM" vertex="1">
+          <mxGeometry relative="1" x="-0.1" as="geometry">
+            <mxPoint x="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gby5T5b7FyjLcUYPZA8N-12" edge="1" parent="1" source="gby5T5b7FyjLcUYPZA8N-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="gby5T5b7FyjLcUYPZA8N-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gby5T5b7FyjLcUYPZA8N-17" connectable="0" parent="gby5T5b7FyjLcUYPZA8N-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="I2C" vertex="1">
+          <mxGeometry relative="1" x="-0.02" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gby5T5b7FyjLcUYPZA8N-13" edge="1" parent="1" source="gby5T5b7FyjLcUYPZA8N-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="gby5T5b7FyjLcUYPZA8N-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gby5T5b7FyjLcUYPZA8N-20" connectable="0" parent="gby5T5b7FyjLcUYPZA8N-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="GPIO" vertex="1">
+          <mxGeometry relative="1" x="0.1" y="1" as="geometry">
+            <mxPoint x="7" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gby5T5b7FyjLcUYPZA8N-15" edge="1" parent="1" source="gby5T5b7FyjLcUYPZA8N-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gby5T5b7FyjLcUYPZA8N-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gby5T5b7FyjLcUYPZA8N-16" connectable="0" parent="gby5T5b7FyjLcUYPZA8N-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="GPIO" vertex="1">
+          <mxGeometry relative="1" x="-0.02" as="geometry">
+            <mxPoint x="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gby5T5b7FyjLcUYPZA8N-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="RPI 5" vertex="1">
+          <mxGeometry height="50" width="80" x="370" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="gby5T5b7FyjLcUYPZA8N-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CAMERA" vertex="1">
+          <mxGeometry height="40" width="75" x="372.5" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="gby5T5b7FyjLcUYPZA8N-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SERVO MOTOR" vertex="1">
+          <mxGeometry height="40" width="80" x="320" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="gby5T5b7FyjLcUYPZA8N-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="STEPPER MOTOR" vertex="1">
+          <mxGeometry height="40" width="80" x="250" y="375" as="geometry" />
+        </mxCell>
+        <mxCell id="gby5T5b7FyjLcUYPZA8N-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="LCD 2004" vertex="1">
+          <mxGeometry height="40" width="80" x="420" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="gby5T5b7FyjLcUYPZA8N-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="BUTTON" vertex="1">
+          <mxGeometry height="40" width="80" x="490" y="375" as="geometry" />
+        </mxCell>
+        <mxCell id="gby5T5b7FyjLcUYPZA8N-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;The camera is used to see the bot&#39;s cards and the other players&#39; played cards&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="250" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="gby5T5b7FyjLcUYPZA8N-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;The stepper motor is used to select a card and the servo ejects it from the machine&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="210" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="gby5T5b7FyjLcUYPZA8N-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;The buttons are used to input data that can&#39;t be received from the camera&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="460" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="gby5T5b7FyjLcUYPZA8N-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;The LCD displays information like points and card combinations, as well as an interactive menu with the physical buttons&lt;/font&gt;" vertex="1">
+          <mxGeometry height="59" width="140" x="470" y="425.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
